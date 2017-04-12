@@ -1,6 +1,6 @@
-# Superjuice
+# Bamazon
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
+This project makes B-Corporations searchable and finds their products on Amazon, so customers can easily buy pre-vetted "good" products.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
